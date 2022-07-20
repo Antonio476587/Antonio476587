@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Antonio476587 or AntonioFCG
-- I´m going for everything 🚀
-- 📫 How to reach me felixantoniocabello@gmail.com
-- 📫 How to reach me https://www.fantonix.space
+##### 🔭 Working on my life.
+##### 👯 Looking forward to collaborate on deno.
+##### 🌱 Currently learning languages, math and computer science.
+##### 🚀 I'm going for everything.
 
-<!---
-Antonio476587/Antonio476587 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felix-antonio-cabello/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twitter.com/AntonioCab111/)
