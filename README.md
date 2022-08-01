@@ -1,6 +1,6 @@
 ##### 🔭 Working on my life.
 ##### 👯 Looking forward to collaborate on deno.
-##### 🌱 Currently learning languages, math and computer science.
+##### 🌱 Currently learning languages and others cool things.
 ##### 🚀 I'm going for everything.
 
 
