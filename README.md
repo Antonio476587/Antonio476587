@@ -65,4 +65,7 @@ Extracting production-tested utilities from OriginDot:
   <a href="mailto:felix@psyque.net">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://me.developers.google.com/u/109899818198735014373">
+    <img src="https://img.shields.io/badge/Google%20Developer%20Profile-F29C11" />
+  </a>
 </p>
